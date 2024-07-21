@@ -109,7 +109,7 @@ class HomeScreen extends StatelessWidget {
             context,
             MaterialPageRoute(
               builder: (context) => ChatScreen(
-                apiKey: 'AIzaSyBR1Bd15WLSuLleTwabOJ7sI17T5V6xWVw',
+                apiKey: 'YourApiKeyhere',
               ),
             ),
           );
