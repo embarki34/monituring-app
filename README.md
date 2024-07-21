@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact [your email].
+For any questions or inquiries, please contact [mailto] : Embarki24@gmail.com.
 
 ---
 
